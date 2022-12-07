@@ -1,7 +1,7 @@
 import React from 'react';
-import Dashboard from "./modulea/dashboard/container/dashboard-root";
+import Dashboard from "./modules/dashboard/container/dashboard-root";
 import {BrowserRouter} from "react-router-dom";
-import Router from "./modulea/Router/router";
+import Router from "./modules/Router/router";
 
 function App() {
     return (

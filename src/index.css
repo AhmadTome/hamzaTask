@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.main-container {
+    background-color: rgb(247 248 252);
+}
+
+.dashboard {
+    background-color: rgb(54 55 64);
+    min-height: 1000px;
+
+}
+ .item {
+    color: rgb(221 226 255);
+}
+
+ .itemContainer:hover .item{
+    color: black;
+}
+
+ div .active   {
+     background-color: #3e4049;
+ }
